@@ -1,79 +1,32 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+THIS IS MY ANDROID APP WHICH WILL MANAGE THE ANDROID FUCTIONALITIES ALONG WITH THE EMAIL AND CALL MANAGEMENT. THIS APP COMPLETELY PERFORM FUNCTIONS ON THE VOICE COMMAND OF USER.
+THE FUNCTIONALITIES WHICH WORK ON USER VOICE COMMAND ARE THE FOLLOWING :-
+1. ACCESSING FORLLOWING ANDROID APPS -
+    YOUTUBE
+    PLAYSTORE
+    CALENDAR
+    CAMERA
+    SETTINGS
+    DEFAULT MESSAGING APP
+2. MAKE A CALL TO ANY PERSON
+3. OPEN THE INBOX ON ANY PERSON
+4. READ THE LATEST MAIL
+5. READ THE MAIL WITH THE SPECIFIC SUBJECT
+6. REPLY TO ANY MAIL
 
-# Getting Started
+SIMILAR WORK IS ALSO DONE BY AMAZON ALEXA BUT THE FUNCTINALITY WHICH MAKE MY APP SUPREME IS THE EMAIL MANAGEMENT WHICH IS NOT IMPLEMENTED IN AMAZON ALEXA.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+THE VOICE ASSISSTANT WILL GET ACTIVATED WHEN USER WILL SAY "ZORA" AND THEN USER CAN GIVE THE COMMAND.
 
-## Step 1: Start the Metro Server
+APP SET UP - WHEN YOU DOWNLOAD THE APP , THERE WILL BE SIGNUP FORM ASKING FOR NAME , EMAIL , GENDER AND PHONE NO.
+             THEN APP WILL ASK FOR SOME PERMISSIONS REQUIRED FOR THE APP WORKING THEN IT WILL ASK FOR APP PASSWORD 
+             THIS APP PASSWORD IS THE GOOGLE ACCOUNT APP PASSWORD AND YOU CAN GET IT BY FOLLOWING WAY : -
+             1. Go to MANAGE YOUR GOOGLE ACCOUNT
+             2.CLICK ON SECURITY TAB
+               YOUR 2-STEP VERIFICATION SHOULD BE DONE
+            3. SEARCH FOR APP PASSWORDS IN SEARCH BAR
+            4. HERE YOU CAN GIVE THE APP NAME AND CLICK ON CREATE
+               YOU WILL GET A 16-LETTER PASSWORD WHICH WILL BE USED AS APP PASSOWORD
+               AFTER THIS THE APP WILL BE READY TO USE. 
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+DOWNLOAD LINK OF APP -
 
-To start Metro, run the following command from the _root_ of your React Native project:
-
-```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
-```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
